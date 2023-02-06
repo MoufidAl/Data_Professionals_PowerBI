@@ -1,2 +1,2 @@
-# Data_Professionals_PowerBI
-A Power BI visualization on 650 data professional participants
+# Data Professionals PowerBI Visualization
+A Power BI visualization on 650 data professional participants based on Alex The Analyst tutorial on Youtube!
